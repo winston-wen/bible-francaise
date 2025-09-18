@@ -21,7 +21,7 @@ o kɔmɑ̃smɑ̃, djø kʁea lə sjɛl e~la tɛʀ.
 ```
 ɔʀ, la tɛʀ etɛ kaɔtik e vid. 
 le tenɛbʀ kuvʁɛ l'abim, 
-e l'ɛspʀi də djø plane o-dəsy dez~o.
+e l'ɛspʀi də djø plane t~o-dəsy dez~o.
 ```
 
 (3)	Et Dieu dit alors: Que la lumière soit ! Et la lumière fut.
