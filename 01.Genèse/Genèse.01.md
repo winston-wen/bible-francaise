@@ -7,7 +7,7 @@ tɛkst ɔʀiʒinal avɛk pʀɔnɔ̃sjasjɔ̃.
 La Création de l'univers.
 
 ```
-la kʀeasjɔ̃ də l-ynivɛʀ.
+la kʀeasjɔ̃ də l~ynivɛʀ.
 ```
 
 (1)	Au commencement, Dieu créa le ciel et la terre.
