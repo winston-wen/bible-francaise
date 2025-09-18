@@ -55,8 +55,9 @@ puʀ le sepaʀe.
 (7)	Dieu fit l’étendue. Il sépara les eaux qui étaient sous l'étendue des eaux qui étaient au-dessus. Et ce fut ainsi.
 
 ```
-djø fi l'etɑ̃dy. il sepaʀa le z~o ki etɛ su l'etɑ̃dy
-de z~o ki etɛ t~o-dəsy. e sə fy t~ɛ̃si.
+djø fi l'etɑ̃dy. il sepaʀa le z~o
+ki etɛ su l'etɑ̃dy de z~o
+ki etɛ t~o-dəsy. e sə fy t~ɛ̃si.
 ```
 
 (8)	Dieu appela cette étendue : « ciel ». Il y eut un soir, il y eut un matin : ce fut le deuxième jour.
@@ -119,9 +120,8 @@ e puʀ k'il maʀk le sɛzɔ̃, le ʒuʀ e le z~ane.
 (15)	Que, dans l’étendue du ciel, ils servent de luminaires pour illuminer la terre. Et ce fut ainsi.
 
 ```
-kə, dɑ̃ l'etɑ̃dy dy sjɛl,
-il sɛʀv də lyminɛʀ puʀ ilymine la tɛʀ.
-e sə fy t~ɛ̃si.
+kə, dɑ̃ l'etɑ̃dy dy sjɛl, il sɛʀv də lyminɛʀ
+puʀ ilymine la tɛʀ. e sə fy t~ɛ̃si.
 ```
 
 (16)	Dieu fit deux grands luminaires, le plus grand pour qu’il préside au jour, et les plus petit pour qu’il préside à la nuit. Il fit aussi les étoiles.
@@ -130,7 +130,7 @@ e sə fy t~ɛ̃si.
 djø fi dø gʀɑ̃ lyminɛʀ, 
 lə ply gʀɑ̃ puʀ k'il pʀezid o ʒuʀ,
 e le ply pəti puʀ k'il pʀezid a la nɥi.
-il fi t~osi le z~etwal.
+ij fi t~osi le z~etwal.
 ```
 
 (17)	Il les plaça dans l’étendue du ciel pour illuminer la terre,
@@ -166,8 +166,8 @@ də la tɛʀ dɑ̃ l'etɑ̃dy dy sjɛl!
 
 ```
 alɔʀ djø kʀea ʃak ɛspɛs də gʀɑ̃ z~animo maʀɛ̃,
-e ʃak ɛspɛs d'ɛtʀ vivɑ̃ ki sə møv,
-e fwazɔn dɑ̃ le z~o, e ʃak ɛspɛs d'wazo ele.
+e ʃak ɛspɛs d'ɛtʀ vivɑ̃
+ki sə møv e fwazɔn dɑ̃ le z~o, e ʃak ɛspɛs d'wazo ele.
 djø vi kə s'etɛ bɔ̃.
 ```
 
@@ -218,8 +218,7 @@ e syʀ tu le ʀɛptil e le z~ɛ̃sɛkt.
 (27)	Dieu créa les hommes de sorte qu’ils soient son image, oui, il les créa de sorte qu’ils soient l’image de Dieu. Il les créa homme et femme.
 
 ```
-djø kʀea le z~ɔm də sɔʀt
-k'il swa sɔ̃ n~imaʒ, wi,
+djø kʀea le z~ɔm də sɔʀt k'il swa sɔ̃ n~imaʒ, wi,
 il~e kʀea də sɔʀt k'il swa l'imaʒ də djø.
 il le kʀea ɔm e fam.
 ```
@@ -228,18 +227,15 @@ il le kʀea ɔm e fam.
 
 ```
 djø le beni ɑ̃ dizɑ̃:
-swaje fekɔ̃, myltiplije-vu,
-ʀɑ̃plise la tɛʀ, ʀɑ̃de vu ɑ̃ mɛtʀ,
-e dɔmine le pwasɔ̃ de mɛʀ,
-le z~wazo dy sjɛl
+swaje fekɔ̃, myltiplije-vu, ʀɑ̃plise la tɛʀ, ʀɑ̃de vu ɑ̃ mɛtʀ,
+e dɔmine le pwasɔ̃ de mɛʀ, le z~wazo dy sjɛl
 e tu le ʀɛptil e le z~ɛ̃sɛkt.
 ```
 
 (29)	Et Dieu dit : Voici, je vous donne, pour vous en nourrir, toute plante portant sa semence partout sur la terre, et tous les arbres fruitiers portant leur semence.
 
 ```
-e djø di: vwasi, ʒə vu dɔn,
-puʀ vu s~ɑ̃ nuʀiʀ,
+e djø di: vwasi, ʒə vu dɔn, puʀ vu s~ɑ̃ nuʀiʀ,
 tut plɑ̃t pɔʀtɑ̃ sa səmɑ̃s paʀtu syʀ la tɛʀ,
 e tu le z~aʀb fʀɥitje pɔʀtɑ̃ lœʀ səmɑ̃s.
 ```
