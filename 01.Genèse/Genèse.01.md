@@ -21,13 +21,13 @@ o kɔmɑ̃smɑ̃, djø kʁea lə sjɛl e~la tɛʀ.
 ```
 ɔʀ, la tɛʀ etɛ kaɔtik e vid. 
 le tenɛbʀ kuvʁɛ l'abim, 
-e l'ɛspʀi də djø plane t~o-dəsy dez~o.
+e l'ɛspʀi də djø plane t~o-dəsy de z~o.
 ```
 
 (3)	Et Dieu dit alors: Que la lumière soit ! Et la lumière fut.
 
 ```
-e djø di alɔʀ: kə la lymjɛʀ swa ! e la lymjɛʀ fy.
+e djø di t~alɔʀ: kə la lymjɛʀ swa ! e la lymjɛʀ fy.
 ```
 
 (4)	Dieu vit que la lumière était bonne, et il sépara la lumière des ténèbres.
@@ -48,8 +48,7 @@ sə fy lə pʀəmje ʒuʀ.
 (6)	Puis Dieu dit : Qu’il y ait une étendue entre les eaux pour les séparer.
 
 ```
-pɥi djø di: kil~i ɛ yn etɑ̃dy ɑ̃tʀ le z~o
-puʀ le sepaʀe.
+pɥi djø di: kil~i ɛ yn etɑ̃dy ɑ̃tʀ le z~o puʀ le sepaʀe.
 ```
 
 (7)	Dieu fit l’étendue. Il sépara les eaux qui étaient sous l'étendue des eaux qui étaient au-dessus. Et ce fut ainsi.
@@ -150,16 +149,14 @@ djø vi kə s'etɛ bɔ̃.
 (19)	Il y eut un soir, il y eut un matin : ce fut le quatrième jour.
 
 ```
-il~i y t~ɛ̃ swaʀ, il~i y t~ɛ̃ matɛ̃:
-sə fy lə katʀijɛm ʒuʀ.
+il~i y t~ɛ̃ swaʀ, il~i y t~ɛ̃ matɛ̃: sə fy lə katʀijɛm ʒuʀ.
 ```
 
 (20)	Puis Dieu dit : Que les eaux foisonnent d'une multitude d’êtres vivants, et que des oiseaux volent au-dessus de la terre dans l’étendue du ciel !
 
 ```
 pɥi djø di: kə le zo fwazɔn d'yn myltityd d'ɛtʀ vivɑ̃,
-e kə de z~wazo vɔl t~o-dəsy
-də la tɛʀ dɑ̃ l'etɑ̃dy dy sjɛl!
+e kə de z~wazo vɔl t~o-dəsy də la tɛʀ dɑ̃ l'etɑ̃dy dy sjɛl!
 ```
 
 (21)	Alors Dieu créa chaque espèce de grands animaux marins et chaque espèce d’êtres vivants qui se meuvent et foisonnent dans les eaux, et chaque espèce d’oiseaux ailés. Dieu vit que c’était bon.
@@ -207,11 +204,10 @@ djø vi kə s'etɛ bɔ̃.
 (26)	Puis Dieu dit : Faisons les hommes de sorte qu’ils soient notre image, qu’ils nous ressemblent. Qu’ils dominent sur les poissons de la mer, sur les oiseaux du ciel, sur les bestiaux sur tout la terre et sur tous les reptiles et les insectes.
 
 ```
-pɥi djø di: fɛzɔ̃ le z~ɔm də sɔʀt
-k'il swa nɔtʀ imaʒ, k'il nu ʀəsɑ̃bl.
+pɥi djø di: fɛzɔ̃ le z~ɔm də sɔʀt k'il swa nɔtʀ imaʒ,
+k'il nu ʀəsɑ̃bl.
 k'il dɔmin syʀ le pwasɔ̃ də la mɛʀ,
-syʀ le z~wazo dy sjɛl, syʀ le bestjo,
-syʀ tu la tɛʀ
+syʀ le z~wazo dy sjɛl, syʀ le bestjo, syʀ tu la tɛʀ
 e syʀ tu le ʀɛptil e le z~ɛ̃sɛkt.
 ```
 
