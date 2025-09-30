@@ -263,19 +263,19 @@ sə fy lə sisjɛm ʒur.
 
 (2) Or `然而`, la terre était chaotique et vide `天是混沌和虚无的`. Les ténèbres couvraient l’abîme `黑暗覆盖着深渊`, et l’Esprit de Dieu `神的灵` planait `盘旋` au-dessus des eaux `在水面上`.
 
-(3) Et Dieu dit alors `然后神说(dire)`: Que la lumière soit `要(que)有光` ! Et la lumière fut `然后就有(être)了光`.
+(3) Et Dieu dit alors `然后神说(dire)`: Que la lumière soit `要(que)有光` ! Et la lumière fut `然后就有(être->fut)了光`.
 
-(4) Dieu vit `上帝看(voir)` que la lumière était bonne `光是(être)好的`, et il sépara la lumière des ténèbres `他就把光和暗分开` .
+(4) Dieu vit `上帝看(voir->vit)` que la lumière était bonne `光是(être)好的`, et il sépara la lumière des ténèbres `他就把光和暗分开` .
 
 (5) Il appela la lumière : « jour » `他把光称为(appeler)「昼」` et les ténèbres : « nuit » `把暗称为「夜」`. Il y eut un soir `有(être)晚上`, il y eut un matin `有早晨`. Ce fut le premier jour `这是第一天`.
 
 (6) Puis Dieu dit `然后神说` : Qu’il y ait une étendue `要有一片空间` entre les eaux `在诸水之间` pour les séparer `以分隔它们(les)`.
 
-(7) Dieu fit l’étendue `神创造了这片空间`. Il sépara `它分开了` les eaux qui étaient sous l’étendue `在(être)空间以下的水` des `与...分开` eaux qui étaient au-dessus `在(être)空间以上的水`. Et ce fut ainsi `事情就是这样`.
+(7) Dieu fit l’étendue `神创造了这片空间`. Il sépara `它分开了` les eaux qui étaient sous l’étendue `在(être->étaient)空间以下的水` des `与...分开` eaux qui étaient au-dessus `在(être)空间以上的水`. Et ce fut ainsi `事情就是这样`.
 
 (8) Dieu appela cette étendue : « ciel » `神称这片空间为「天」` . Il y eut un soir, il y eut un matin : ce fut le deuxième jour `有晚上, 有早晨: 这是第二天`.
 
-(9) Puis Dieu dit `然后神说` : Que les eaux d’au-dessous du ciel  `让(que)天空以下的水` se rassemblent en un seul endroit `自己(se)聚集到一处` pour que la terre ferme paraisse `从而(pour)使旱地显现(paraître)`. Et ce fut ainsi `事情就是这样`.
+(9) Puis Dieu dit `然后神说` : Que les eaux d’au-dessous du ciel  `让(que)天空以下的水` se rassemblent en un seul endroit `自己(se)聚集到一处` pour que la terre ferme paraisse `从而(pour)使旱地显现(paraître->paraisse)`. Et ce fut ainsi `事情就是这样`.
 
 (10) Dieu appela « terre » la terre ferme `神称旱地为「地」`, et « mer » l’amas des eaux `称聚在一起的水为「海」`. Dieu vit que c’était bon `神看这是好的`.
 
@@ -287,23 +287,23 @@ sə fy lə sisjɛm ʒur.
 
 (14) Puis Dieu dit  `然后神说` : Que `让/要`, dans l’étendue du ciel `在天上. 直译: 在天的(du=de le)空间里`, il y ait des luminaires  `要有发光体(复数)` pour distinguer le jour de la nuit `从而区分昼和夜`, et pour qu’ils marquent les saisons `以及标记季节`, les jours et les années `日期和年份`.
 
-(15) Que `让`, dans l’étendue du ciel `在天上`, ils servent de luminaires `他们是照明工具` pour illuminer la terre `为了照亮大地`. Et ce fut ainsi `事情就是这样`.
+(15) Que `让`, dans l’étendue du ciel `在天上`, ils servent de luminaires `它们是照明工具` pour illuminer la terre `用来照亮大地`. Et ce fut ainsi `事情就是这样`.
 
-(16) Dieu fit deux grands luminaires, le plus grand pour qu’il préside au jour, et le plus petit pour qu’il préside à la nuit. Il fit aussi les étoiles.
+(16) Dieu fit deux grands luminaires `神创造了两个巨大的发光体`, le plus grand `更大的那个` pour qu’il préside au jour `用来掌管白天`, et le plus petit `更小的那个` pour qu’il préside à la nuit `用来掌管夜晚`. Il fit aussi les étoiles `祂还创造了星辰`.
 
-(17) Il les plaça dans l’étendue du ciel pour illuminer la terre,
+(17) Il les plaça dans `祂把它们放(plasir)在` l’étendue du ciel `天上. 直译: 天所在的空间` pour illuminer la terre `以照亮大地`,
 
-(18) pour présider au jour ainsi qu’à la nuit, et séparer la lumière des ténèbres. Dieu vit que c’était bon.
+(18) pour présider au jour `以管理昼` ainsi qu’à `与, 是et的文学化表达` la nuit `夜`, et séparer la lumière des ténèbres `以及(为了)区分光和暗`. Dieu vit que c’était bon `神看这是好的`.
 
-(19) Il y eut un soir, il y eut un matin : ce fut le quatrième jour.
+(19) Il y eut un soir, il y eut un matin : ce fut le quatrième jour. `有晚上, 有早晨 : 这是第四天.`
 
-(20) Puis Dieu dit : Que les eaux foisonnent d’une multitude d’êtres vivants, et que des oiseaux volent au-dessus de la terre dans l’étendue du ciel !
+(20) Puis Dieu dit `然后神说` : Que les eaux foisonnent `让诸水盛产(foisonner)` d’une multitude `n.f. 众多` d’êtres vivants `生物`, et que des oiseaux `也让诸鸟` volent au-dessus de la terre `飞在地面以上` dans l’étendue du ciel `(飞在)天空之中` !
 
-(21) Alors Dieu créa chaque espèce de grands animaux marins et chaque espèce d’êtres vivants qui se meuvent et foisonnent dans les eaux, et chaque espèce d’oiseaux ailés. Dieu vit que c’était bon.
+(21) Alors Dieu créa chaque espèce de grands animaux marins `神就造出各种巨大的海洋动物` et chaque espèce d’êtres vivants `以及各种生物` qui se meuvent et foisonnent dans les eaux `这些生物(qui), 在水中自主移动(se mouvoir)和大量繁殖(foisonner)`, et chaque espèce d’oiseaux `以及各种鸟` ailés `有翅膀的`. Dieu vit que c’était bon `神看这是好的`.
 
-(22) Et il les bénit, en ces termes : Soyez féconds, multipliez-vous, remplissez les eaux des mers, et que les oiseaux aussi se multiplient sur la terre.
+(22) Et il les bénit `然后神祝福它们`, en ces termes `这么说` : Soyez féconds `要做到(être->soyez) a. 生养众多`, multipliez-vous `你们要繁育`, remplissez les eaux des mers `要充满(remplir)海洋`, et que les oiseaux aussi se multiplient sur la terre `以及, 鸟也要在地上繁育`.
 
-(23) Il y eut un soir, il y eut un matin : ce fut le cinquième jour.
+(23) Il y eut un soir, il y eut un matin : ce fut le cinquième jour. `有晚上, 有早晨 : 这是第五天`.
 
 (24) Puis Dieu dit : Que la terre produise chaque espèce d’êtres vivants, chaque espèce de bestiaux, de reptiles et d’insectes, ainsi que d’animaux sauvages. Et ce fut ainsi.
 
