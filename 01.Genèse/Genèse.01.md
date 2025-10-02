@@ -265,7 +265,7 @@ sə fy lə sisjɛm ʒur.
 
 (3) Et Dieu dit alors `然后神说(dire)`: Que la lumière soit `要(que)有光` ! Et la lumière fut `然后就有(être->fut)了光`.
 
-(4) Dieu vit `上帝看(voir->vit)` que la lumière était bonne `光是(être)好的`, et il sépara la lumière des ténèbres `他就把光和暗分开` .
+(4) Dieu vit `神看(voir->vit)` que la lumière était bonne `光是(être)好的`, et il sépara la lumière des ténèbres `他就把光和暗分开` .
 
 (5) Il appela la lumière : « jour » `他把光称为(appeler)「昼」` et les ténèbres : « nuit » `把暗称为「夜」`. Il y eut un soir `有(être)晚上`, il y eut un matin `有早晨`. Ce fut le premier jour `这是第一天`.
 
@@ -275,7 +275,7 @@ sə fy lə sisjɛm ʒur.
 
 (8) Dieu appela cette étendue : « ciel » `神称这片空间为「天」` . Il y eut un soir, il y eut un matin : ce fut le deuxième jour `有晚上, 有早晨: 这是第二天`.
 
-(9) Puis Dieu dit `然后神说` : Que les eaux d’au-dessous du ciel  `让(que)天空以下的水` se rassemblent en un seul endroit `自己(se)聚集到一处` pour que la terre ferme paraisse `从而(pour)使旱地显现(paraître->paraisse)`. Et ce fut ainsi `事情就是这样`.
+(9) Puis Dieu dit `然后神说` : Que les eaux d’au-dessous du ciel  `让(que)天空以下的水` se rassemblent en un seul endroit `自己(se)聚集到一处` pour que la terre ferme paraisse `从而(pour)使旱地显现(paraître)`. Et ce fut ainsi `事情就是这样`.
 
 (10) Dieu appela « terre » la terre ferme `神称旱地为「地」`, et « mer » l’amas des eaux `称聚在一起的水为「海」`. Dieu vit que c’était bon `神看这是好的`.
 
@@ -305,18 +305,18 @@ sə fy lə sisjɛm ʒur.
 
 (23) Il y eut un soir, il y eut un matin : ce fut le cinquième jour. `有晚上, 有早晨 : 这是第五天`.
 
-(24) Puis Dieu dit : Que la terre produise chaque espèce d’êtres vivants, chaque espèce de bestiaux, de reptiles et d’insectes, ainsi que d’animaux sauvages. Et ce fut ainsi.
+(24) Puis Dieu dit `然后神说` : Que la terre produise chaque espèce d’êtres vivants `让大地出产各种活物`, chaque espèce de bestiaux `各种野兽`, de reptiles et d’insectes `各种猛兽和虫子`, ainsi que `以及(=as well as)` d’animaux sauvages `野生动物` . Et ce fut ainsi `事情就是这样`.
 
-(25) Dieu fit chaque espèce d’animaux sauvages, il fit chaque espèce de bestiaux, chaque espèce de reptiles et d’insectes. Dieu vit que c’était bon.
+(25) Dieu fit chaque espèce d’animaux sauvages `神创造了各种野生动物`, il fit chaque espèce de bestiaux `他创造了各种牲畜(n.pl.)`, chaque espèce de reptiles et d’insectes `各种爬行动物和虫子`. Dieu  vit que c’était bon `神看这是好的`.
 
-(26) Puis Dieu dit : Faisons les hommes de sorte qu’ils soient notre image, qu’ils nous ressemblent. Qu’ils dominent sur les poissons de la mer, sur les oiseaux du ciel, sur les bestiaux sur toute la terre et sur tous les reptiles et les insectes.
+(26) Puis Dieu dit `然后神说` : Faisons les hommes de sorte qu’ils `使得他们 (de sorte que = so that)` soient notre image `成为(être->soient) 我们的形象`, qu’ils nous ressemblent `使得(省略de sorte) 他们与我们相似`. Qu’ils dominent sur les poissons de la mer `让他们管理海里的鱼`, sur les oiseaux du ciel `空中的鸟`, sur les bestiaux sur toute la terre `遍地的牲畜` et sur tous les reptiles et les insectes `以及各种爬行动物和虫子.
 
-(27) Dieu créa les hommes de sorte qu’ils soient son image, oui, il les créa de sorte qu’ils soient l’image de Dieu. Il les créa homme et femme.
+(27) Dieu créa les hommes `神造人` de sorte qu’ils soient son image `使他们(人)成为他(神)的形象`, oui, il les créa de sorte qu’ils soient l’image de Dieu `他(神)创造他们, 使他们成为神的形象`. Il les créa homme et femme `他(神)创造男人和女人`.
 
-(28) Dieu les bénit en disant : Soyez féconds, multipliez-vous, remplissez la terre, rendez-vous en maîtres, et dominez les poissons des mers, les oiseaux du ciel et tous les reptiles et les insectes.
+(28) Dieu les bénit en disant `上帝用这些话来祝福他们` : Soyez féconds `要做到生养众多`, multipliez-vous `你们要繁育`, remplissez la terre `充满大地`, rendez-vous en maîtres `你们要做(rendre)主人`, et dominez les poissons des mers `要管理海里的鱼`, les oiseaux du ciel `天上的鸟` et tous les reptiles et les insectes `以及各种爬行动物和虫子`.
 
-(29) Et Dieu dit : Voici, je vous donne, pour vous en nourrir, toute plante portant sa semence partout sur la terre, et tous les arbres fruitiers portant leur semence.
+(29) Et Dieu dit `然后神说` : Voici `如下所述`, je vous donne `我给(donner)你们`, pour vous en nourrir `(所给)为了喂养你们`, toute plante portant sa semence `各种有种子的植物` partout sur la terre `遍满大地`, et tous les arbres fruitiers portant leur semence `各种结果的树, 果子里有种子`.
 
-(30) Je donne aussi à tout animal de la terre, aux oiseaux du ciel, à tout animal qui se meut à ras de terre, et à tout être vivant, toute plante verte pour qu’ils s’en nourrissent. Et ce fut ainsi.
+(30) Je donne `我给` aussi à tout animal de la terre `向地上的各种动物(间接宾语, 给的接受方)`, aux oiseaux du ciel `向水里的鱼`, à tout animal `向各种动物` qui se meut à ras de terre `贴地爬行的`, et à tout être vivant `以及各种活物`, toute plante verte `各种青草(直接宾语, 给的事物)` pour qu’ils s’en nourrissent `以喂养他们(前述所有间接宾语)`. Et ce fut ainsi.
 
-(31) Dieu considéra tout ce qu’il avait créé : c’était très bon. Il y eut un soir, il y eut un matin : ce fut le sixième jour.
+(31) Dieu considéra `神认为` tout ce `这一切, 那一切` qu’il avait créé `他所创造的`: c’était très bon `这是好的`. Il y eut un soir, il y eut un matin : ce fut le sixième jour. `有晚上, 有早晨 : 这是第六天.`
