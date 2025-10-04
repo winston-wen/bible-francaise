@@ -482,15 +482,31 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 ## 2. Traduction
 
-(1) Ainsi furent achevés le ciel et la terre avec toute l’armée de ce qu’ils contiennent.
+(1) Ainsi `于是, 如此` furent achevés `被(être->furent)完成(achevé)` le ciel et la terre `天地` avec `连同(=with)` toute l’armée `所有军队` de ce qu’ils contiennent `它们(ils, 指前述的天地) 所(ce que = what)包含(contenir) 的(de)`.
 
-(2) Le septième jour, Dieu avait achevé tout ce qu’il avait créé. Alors il se reposa en ce jour-là de toutes les œuvres qu’il avait accomplies.
+语法解析: 这句话的第一个语素是动词, 据此判断是倒装句.
 
-(3) Il bénit le septième jour, il en fit un jour saint, car, en ce jour-là, il se reposa de toute l’œuvre de création qu’il avait accomplie.
+💡 armée (军队) 这个词很让我费解. 整句的希伯来原文为
 
-**L’histoire des débuts de l’humanité**
+```
+וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־ צְבָאָֽם׃
+```
 
-**L’alliance d’Eden**
+各通俗语言中不一致的词有两个, `צְבָאָֽ` (army; host), `כָל־` (all, any, every). 
+
+* NIRV, 和合本仅保留 `כָל־`, 翻译成 "万物".
+* NIV, KJV 把这两个希伯来词翻译成 "all hosts".
+* 所有法语版把这两个希伯来词翻译成 "toute l’armée".
+
+(2) Le septième jour `第七天`, Dieu avait achevé `神完成了` tout ce qu’il avait créé `他所创造的一切`. Alors il se reposa `他就休息了` en ce jour-là `在那一天` de toutes les œuvres `从一切的事工` qu’il avait accomplies `所完成的`.
+
+语法: ce jour-là. ce和-là都起到指代作用.
+
+(3) Il bénit le septième jour `他祝福第七天`, il en fit un jour saint `他使这天成为一个圣日`, car `因为`, en ce jour-là `在这一天`, il se reposa de toute l’œuvre de création qu’il avait accomplie `他从一切创造的事工里安息了`.
+
+**L’histoire des débuts de l’humanité** 人类起源的历史
+
+**L’alliance d’Eden** 伊甸园的 "婚约?"
 
 (4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. Au temps où l’Eternel Dieu fit la terre et le ciel,
 
