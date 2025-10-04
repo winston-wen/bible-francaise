@@ -317,6 +317,6 @@ sə fy lə sisjɛm ʒur.
 
 (29) Et Dieu dit `然后神说` : Voici `如下所述`, je vous donne `我给(donner)你们`, pour vous en nourrir `(所给)为了喂养你们`, toute plante portant sa semence `各种有种子的植物` partout sur la terre `遍满大地`, et tous les arbres fruitiers portant leur semence `各种结果的树, 果子里有种子`.
 
-(30) Je donne `我给` aussi à tout animal de la terre `向地上的各种动物(间接宾语, 给的接受方)`, aux oiseaux du ciel `向水里的鱼`, à tout animal `向各种动物` qui se meut à ras de terre `贴地爬行的`, et à tout être vivant `以及各种活物`, toute plante verte `各种青草(直接宾语, 给的事物)` pour qu’ils s’en nourrissent `以喂养他们(前述所有间接宾语)`. Et ce fut ainsi.
+(30) Je donne `我给` aussi à tout animal de la terre `向地上的各种动物(间接宾语, 给的接受方)`, aux oiseaux du ciel `向水里的鱼`, à tout animal `向各种动物` qui se meut à ras de terre `贴地爬行的`, et à tout être vivant `以及各种活物`, toute plante verte `各种青草(直接宾语, 给的事物)` pour qu’ils s’en nourrissent `使得他们(ils)以青草(由en指代)喂养自己(se)`. Et ce fut ainsi.
 
 (31) Dieu considéra `神认为` tout ce `这一切, 那一切` qu’il avait créé `他所创造的`: c’était très bon `这是好的`. Il y eut un soir, il y eut un matin : ce fut le sixième jour. `有晚上, 有早晨 : 这是第六天.`
