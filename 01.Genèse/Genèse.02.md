@@ -488,9 +488,7 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 💡 armée (军队) 这个词很让我费解. 整句的希伯来原文为
 
-```
-וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־ צְבָאָֽם׃
-```
+> וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־ צְבָאָֽם׃
 
 各通俗语言中不一致的词有两个, `צְבָאָֽ` (army; host), `כָל־` (all, any, every). 
 
@@ -500,7 +498,7 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (2) Le septième jour `第七天`, Dieu avait achevé `神完成了` tout ce qu’il avait créé `他所创造的一切`. Alors il se reposa `他就休息了` en ce jour-là `在那一天` de toutes les œuvres `从一切的事工` qu’il avait accomplies `所完成的`.
 
-语法: ce jour-là. ce和-là都起到指代作用.
+语法: ce jour-là. ce和-là都起到指代作用. ce que 引导一个定语从句.
 
 (3) Il bénit le septième jour `他祝福第七天`, il en fit un jour saint `他使这天成为一个圣日`, car `因为`, en ce jour-là `在这一天`, il se reposa de toute l’œuvre de création qu’il avait accomplie `他从一切创造的事工里安息了`.
 
@@ -508,7 +506,7 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 **L’alliance d’Eden** 伊甸园的 "婚约?"
 
-(4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. Au temps où l’Eternel Dieu fit la terre et le ciel,
+(4) Voici `这是` l’histoire de ce qui est advenu `所(ce qui)发生(advenir)的历史` au ciel et sur la terre `在天下和地上` lorsqu’ils furent créés `在它们(指天地)受造(étant créés)之时(lorsque)`. Au temps où `在...时候` l’Eternel Dieu `永生神` fit la terre et le ciel `创造天地(的时候)`,
 
 (5) il n’existait encore sur la terre aucun arbuste, et aucune herbe des champs n’avait encore germé, car l’Eternel Dieu n’avait pas fait pleuvoir sur la terre, et il n’y avait pas d’homme pour cultiver la terre.
 
