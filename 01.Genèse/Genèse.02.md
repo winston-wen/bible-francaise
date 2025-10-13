@@ -624,6 +624,8 @@ https://www.collinsdictionary.com/dictionary/french-english/de
 * vers l’orient - 朝东. 单从语法来讲, 作为 planta 的状语, 或者作为 l’Eden 的定语, 都是合理的.
 * le pays des Délices - 一个欢愉/舒心的地方. 意译为 "一个乐园".
 
+Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en Éden, du côté de l'orient. 不存在语法归属不清晰的问题.
+
 主干 2 : Il y plaça l’homme.
 
 * plaça 是 placer 的简单过去时.
