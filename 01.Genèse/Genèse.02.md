@@ -497,13 +497,13 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 
 
-(2) Le septième jour, Dieu avait achevé tout ce qu’il avait créé. 
+(2) Le septième jour, Dieu avait achevé tout ce qu’il avait créé. Alors il se reposa en ce jour-là de toutes les œuvres qu’il avait accomplies.
 
-第七天, 神完成了他所创造的一切.
+主干 1 : Dieu avait achevé tout.
 
-(2) Alors il se reposa en ce jour-là de toutes les œuvres qu’il avait accomplies.
+整句翻译: 第七天, 神完成了他所创造的一切. 
 
-主干: il se reposa.
+主干 2 : il se reposa.
 
 * en ce jour-là - 在那一天. 是 se reposa 的时间状语.
 * de toutes les œuvres - 从所有工作中. 也是 se reposa 的状语. ⚠️ 第一眼容易误以为是 ce jour-là 的定语, 如此的语义是: 神在 "他所完成的所有工作之日" 休息了. 语意不通顺.
@@ -530,52 +530,52 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 **L’alliance d’Eden** 伊甸园的 "婚约?"
 
-(4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. 
+(4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. Au temps où l’Eternel Dieu fit la terre et le ciel,
 
-主干: Voici l’histoire de ce qui est advenu.
+主干 1 : Voici l’histoire de ce qui est advenu.
 
 * Voici - 这是.
 * de ce qui est advenu - 所发生的. est advenu 是 advenir 的复合过去时.
-* au ciel - 在天空里. 等同于英语的 in the sky. 而按照中文习惯, 意译为 "在天上".
-* sur la terre - 在地上. 等同于英语的 over.
-* lorsque - 在...之时. 引出一个时间状语从句. 类似的有 quand.
+* au ciel - 在天空里. 等同于英语的 in the sky. 而按照中文习惯, 意译为 "在天上". 此处作用是 est advenu 的状语.
+* sur la terre - 在地上. 等同于英语的 over. 此处作用是 est advenu 的状语.
+* lorsque - 在...之时. 引出一个时间状语从句. 类似的有 quand. 此处作用是 est advenu 的时间状语.
 * ils furent créés - 它们受造. 前面讲过被动语态, 以及过去分词的.
 
+主干 2 : Au temps où l’Eternel Dieu fit la terre et le ciel. 这其实是下一条经文的从句, 不知何故被编纂到这一条经文里.
+
+* Au temps où. 在...之时, 引出一个时间状语从句.
 
 
-(4) Au temps où l’Eternel Dieu fit la terre et le ciel,
 
-Au temps où. 在...之时, 引出一个时间状语从句.
+(5) il n’existait encore sur la terre aucun arbuste, et aucune herbe des champs n’avait encore germé, car l’Eternel Dieu n’avait pas fait pleuvoir sur la terre, et il n’y avait pas d’homme pour cultiver la terre.
 
-(5) il n’existait encore sur la terre aucun arbuste,
-
-主干: il n’existait arbuste.
+主干 1 : il n’existait arbuste.
 
 * encore 表示 "还, 尚", 放在否定句里就是 "还未, 尚未".
 * sur la terre 意思是 "在地面上", 是 exister 的地点状语, 限定其断言的空间范围 
 * aucun 是 arbuste 的定语, 放在否定句里加强否定语气, 意思是 "毫无, 根本不". 类似的词有 rien.
 
-(5) et aucune herbe des champs n’avait encore germé,
-
-主干: herbe n’avait germé.
+主干 2 : herbe n’avait germé.
 
 * des champs 是 herbe 的定语, 意思是 "在田地里". 其中, des是介词de和定冠词复数les的缩合.
 * 本句是 Gen 2:5 的第二个主句. 尽管 `, et` 的出现可能会误导读者认为, herbe 是前述 il n’existait 的第二个逻辑主语. 然而本句主谓齐全, 所以只能跟 `il n’existait ...` 一起当主句.
 
-(5) car l’Eternel Dieu n’avait pas fait pleuvoir sur la terre, et il n’y avait pas d’homme pour cultiver la terre.
-
-主干: car Dieu n’avait fait, et il n’y avait d’homme.
+主干 3 : car Dieu n’avait fait
 
 * car 引出原因状语从句.
 * 否定式的谓语如果有助动词 n’avait, 经常写成 n’avait pas.
 * d’homme = de homme, 这里的de不是介词, 而是部分冠词, 等同于英语的 some/any. 在否定句里只用de.
-* cultiver - 耕种. 之所以采用不定式, 是因为 pour 只引出了 cultiver, 没有引出相应的主语, 因而是个介词. 等同于英语的 for cultivating.
 
 de = some/any 的用法, 详见
 
 ```
 https://www.collinsdictionary.com/dictionary/french-english/de
 ```
+
+主干 4 : et il n’y avait d’homme
+
+* et 就像植物大战僵尸里的 "模仿者". 这里模仿 car 的作用, 引出第二个原因状语从句.
+* cultiver - 耕种. 之所以采用不定式, 是因为 pour 只引出了 cultiver, 没有引出相应的主语, 因而是个介词. 等同于英语的 for cultivating.
 
 
 
@@ -592,9 +592,9 @@ https://www.collinsdictionary.com/dictionary/french-english/de
 
 
 
-(7) L’Eternel Dieu façonna l’homme avec de la poussière du sol, 
+(7) L’Eternel Dieu façonna l’homme avec de la poussière du sol, il lui insuffla dans les narines le souffle de vie, et l’homme devint un être vivant.
 
-主干: Dieu façonna l’homme
+主干 1 : Dieu façonna l’homme
 
 * L'Eternel Dieu 是固定搭配, 意思是 "永恒的神".
 * façonna 意思是 "塑造, 制作", 是 façonner 的简单过去时.
@@ -602,9 +602,7 @@ https://www.collinsdictionary.com/dictionary/french-english/de
   * de la 产生 "一些" 的意思, 等同于英语的 some
   * du = de le, 等同于英语的 of the.
 
-(7) il lui insuffla dans les narines le souffle de vie, et l’homme devint un être vivant.
-
-主干 1 : il lui insuffla le souffle
+主干 2 : il lui insuffla le souffle
 
 * insuffla 意思是 "吹入, 打气, 注入; 激发", 是 insuffler 的简单过去时. 可以替换英语 inspire. 中文语境如果需要表达 "注入/激发某种精神力量", 也可以用 insuffla.
 * 谓语有两个宾语. 间接宾语 lui 表示注入的目标. 直接宾语 le souffle de vie 表示注入的内容.
@@ -612,15 +610,27 @@ https://www.collinsdictionary.com/dictionary/french-english/de
 * narine - 鼻孔. dans les narines - (吹)进鼻孔里.
 * 这里间接宾语是 lui, 是个代词单三, 故此放在主语和谓语之间. 如果换成它所指代的 l’homme, 那么就要改成状语结构 à l’homme, 紧跟谓语后面. 如此, 整句将变成 il insuffla à l'homme dans les narins le souffle de vie.
 
-主干 2 : l’homme devint un être vivant
+主干 3 : l’homme devint un être vivant
 
 * devint 意思是 "变成", 是 devenir 的简单过去时.
 
 
 
-TODO:
-
 (8) L’Eternel Dieu planta un jardin vers l’orient : l’Eden, le pays des Délices. Il y plaça l’homme qu’il avait façonné.
+
+主干 1 : Dieu planta un jardin.
+
+* planta 是 plantir 的简单过去时.
+* vers l’orient - 朝东. 单从语法来讲, 作为 planta 的状语, 或者作为 l’Eden 的定语, 都是合理的.
+* le pays des Délices - 一个欢愉/舒心的地方. 意译为 "一个乐园".
+
+主干 2 : Il y plaça l’homme.
+
+* plaça 是 placer 的简单过去时.
+* 副代词 y 最常见的功能是代替介词 à 引导的名词或从句, 作为间接宾语. 此处代替的就是 un jardin.
+* qu’il avait façonné - 祂所塑造的. 作为 l’homme 的定语从句.
+
+
 
 (9) L’Eternel Dieu fit pousser du sol toutes sortes d’arbres portant des fruits d’aspect agréable et délicieux, et il mit l’arbre de la vie au milieu du jardin. Il y plaça aussi l’arbre de la détermination du bien et du mal.
 
@@ -660,7 +670,7 @@ TODO:
 
 ## 3. Exégèse (经文考据)
 
-(2) 我觉得这句经文中的 armée 一词很突兀. 查希伯来原文发现此位置有两个意思, 一为 army, 一为 host. 作为 host 讲的时候, 不知道该怎么翻译成中文. 该词在原文里还有定语 all/every.
+(2) 我觉得这句经文中的 armée 一词很突兀. 查希伯来原文发现此位置有两个意思, 一为 army, 一为 host. 作为 host 讲的时候, 不知道该怎么翻译成中文. 该词在希伯来原文里还有定语 all/every.
 
 NIRV, 和合本仅保留希伯来原文的 all/every, 翻译成万物. NIV, KJV 翻译成 all hosts. 思高本翻译成 "一切点缀". 所有法语版都翻译成 toute l’armée.
 
