@@ -584,7 +584,7 @@ https://www.collinsdictionary.com/dictionary/french-english/de
 主干: l’eau `se mit à` sourdre et à irriguer.
 
 * De l’eau - 一些水. ⚠️此处有版本分歧.
-* se mit à = to start. mit 是 metter 的简单过去时.
+* se mit à = to start. 开始做某事. mit 是 metter 的简单过去时.
 * sourdre - (水的)冒出, 涌出.
 * irriguer - 灌溉.
 
@@ -635,6 +635,24 @@ Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en
 
 
 (9) L’Eternel Dieu fit pousser du sol toutes sortes d’arbres portant des fruits d’aspect agréable et délicieux, et il mit l’arbre de la vie au milieu du jardin. Il y plaça aussi l’arbre de la détermination du bien et du mal.
+
+主句 1 : Dieu fit pousser toutes sortes d’arbres.
+
+* fit (faire) pousser (不定式) - 使生长.
+* portant (porter) des fruits - 携带果子的. 语法: 现在分词作为形容词性.
+* d’aspect agréable et délicieux - 赏心悦目和美味的. 可以理解为中文的 "色香味俱全". 这里的 et 稍有歧义, 无法划分 délicieux 到底是 aspect 的第二个定语, 还是更往前 fruits 的定语. 这里只能根据语义, 认为是 fruits 的定语.
+
+主句 2 : il mit l’arbre
+
+* 这里的 mit 就是单纯的 "放置", 不再是前面 se mit = to start 的意思.
+* l’arbre de la vie - 生命之树.
+* au milieu du jardin - 在花园的中央.
+
+主句 3 : Il y plaça l’arbre.
+
+* l’arbre de la détermination du bien et du mal - 分别善恶树. détermination - (抽象名词) 区分, 分别. bien - 善. mal - 恶.
+
+
 
 (10) Du pays d’Eden sortait un fleuve qui arrosait le jardin. De là, il se divisait en quatre bras.
 
