@@ -679,12 +679,23 @@ Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en
 主句 2 的状语从句 : où se trouve de l’or. 那里有金子 / 那里能找到金子.
 
 * où = where there = wherein
-* se trouve (trouver) 也是断言存在性的. trouver 本意是寻找. se trouver 直译是主语「能找到」宾语, 意译为主语「有」宾语.
+* se trouve (trouver) 也是断言存在性的. trouver 本意是寻找. se trouver 直译是主语「能在自己身上找到」宾语, 意译为主语「有」宾语.
 * de l’or. 这里的 de le 解释为 some, 表示不定量. 不能解释为 of the.
 
 
 
 (12) un or d’excellente qualité. On trouve aussi dans cette contrée de l’ambre parfumée et la pierre précieuse appelée onyx.
+
+前一条经文,  or 的同位语 : un or d’excellente qualité. 成色极佳的金子.
+
+主句 1 : On trouve de l’ambre et la pierre. 人们找到琥珀和宝石. 
+
+* de 在这里表示 "一些", 表达 "不定量" 的意思. 中文名词默认不定量, 因此翻译时可以省略, 以免生硬.
+* 状语 dans cette contrée : 在这片区域.
+* 定语 : parfumée 芳香的. précieuse 珍贵的.
+* 定语 : appelée onyx 叫做玛瑙的. 这里 appelée 是 appler 的过去分词阴性单数.
+
+
 
 (13) Le deuxième fleuve s’appelle Guihôn, il parcourt tout le pays de Koush.
 
