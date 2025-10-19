@@ -596,9 +596,9 @@ https://www.collinsdictionary.com/dictionary/french-english/de
 
 主干 1 : Dieu façonna l’homme
 
-* L'Eternel Dieu 是固定搭配, 意思是 "永恒的神".
+* L'Eternel Dieu 是固定搭配, 直译为 "永恒的神".
 * façonna 意思是 "塑造, 制作", 是 façonner 的简单过去时.
-* avec de la poussière du sol - 方式状语, 意思是 "用地里的一些尘土". 其中,
+* avec de la poussière du sol - 方式状语, 意思是 "用地(sol)里的一些尘土(poussière)". 其中,
   * de la 产生 "一些" 的意思, 等同于英语的 some
   * du = de le, 等同于英语的 of the.
 
@@ -674,7 +674,7 @@ Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en
 
 整句含义: 第一(道支流)的名字叫比逊/丕雄.
 
-主句 2 : il contourne tout le pays. 它环绕（）全地.
+主句 2 : il contourne tout le pays de Havila. 它环绕 (contourner) 哈腓拉全地.
 
 主句 2 的状语从句 : où se trouve de l’or. 那里有金子 / 那里能找到金子.
 
@@ -699,29 +699,170 @@ Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en
 
 (13) Le deuxième fleuve s’appelle Guihôn, il parcourt tout le pays de Koush.
 
+第二个支流叫基训/基红, 它流遍(parcourir)古实全地.
+
+
+
 (14) Le troisième fleuve s’appelle le Tigre, c’est celui qui coule à l’orient de l’Assyrie. Et le quatrième fleuve c’est l’Euphrate.
+
+主句 1 : 第三个支流叫底格里斯.
+
+主句 2 : `c’est celui qui ...` 那就是...
+
+* 约等于英语的 `That’s what ...` 句式
+* coule à l’orient de l’Assyrie. 在亚述东边流淌. 该句的主语是代词 celui, 指代 le Tigre.
+
+
 
 (15) L’Eternel Dieu prit l’homme et l’établit dans le jardin d’Eden pour le cultiver et le garder.
 
+主句 1 : Dieu prit (prendre) l’homme. 神带走那人.
+
+主句 2 : `l’établit (établir) dans ... pour ...` (神)把他安置在伊甸园, 使他耕作和护卫伊甸园.
+
+* `l’` 就是 le 的缩合. 是 établir 的宾语. 因为是宾语代词, 所以放在谓语前面. 不要误以为是 le 冠词.
+* 谓语 établit 复用主语 Dieu.
+* 目的状语 pour le cultiver et le garder 中, 把 le 理解成主语和宾语都是符合语法的, 但把 le 理解成宾语代词更符合语义.
+* 法语允许不定式构成 pour 状语. 这点不像英语要 +ing 变成动名词结构.
+
+
+
 (16) Et l’Eternel Dieu ordonna à l’homme : Mange librement des fruits de tous les arbres du jardin,
+
+主句 1 : `Dieu ordonna (ordonner) à l’homme : ...` 神命令那人 : 随便吃园子里各种树的果实.
+
+* ordonner qch à qn. 命令某人做某事.
+* qch 和 qn 是法语字典中的标准化符号. qch = quelque chose, 等价于英语字典中的 sth = something. qn = quelqu’un(e), 等价于英语字典中的 sb = somebody.
+
+
 
 (17) sauf du fruit de l’arbre de la détermination du bien et du mal. De celui-là, n’en mange pas, car le jour où tu en mangeras, tu mourras.
 
+续16 : `sauf du fruit de ...` 除了分别善恶树上的果子.
+
+主句 1 : `« quelque sujet », car tu mourras`. 关于那些果子, 不许吃它们 ! 因为你吃的那天就会死.
+
+* De celui-là. 关于那些果子.
+* n’en mange pas. (命令句) 不许吃它们. 代词 en 这里用来指代不定量的名词.
+* le jour où. 在...的那天.
+
+
+
 (18) L’Eternel Dieu dit : Il n’est pas bon que l’homme soit seul, je lui ferai une aide qui soit son vis-à-vis.
+
+主干: `Dieu dit : Il n’est pas bon que ..., je lui ferai  (faire) une aide qui ...` 神说 : 那人独身是不好的, 我要为他造一个 "伴侣".
+
+这句话的语法算不上难. 难点在于 vis-à-vis. 该词有两个义项: 副词 face to face 和名词 counterpart. 根据语法, 排除副词, 保留名词. 和合本此处翻译成 "配偶" 是意译, 因为 vis-à-vis 在圣经以外的场合, 不具有典型的 "配偶" 含义.
+
+
 
 (19) L’Eternel Dieu, qui avait façonné du sol tous les animaux des champs et tous les oiseaux du ciel, les fit venir vers l’homme pour voir comment il les nommerait, afin que tout être vivant porte le nom que l’homme lui donnerait.
 
+结构 : L’Eternel Dieu, (qui xxx), les fit (faire) venir vers l’homme (pour xxx), (afin que xxx). 神把 (faire) 它们带到 (venir) 那人面前.
+
+qui 定语从句 : qui avait façonné 他塑造了
+
+* du sol. 用土. 这里与前文的 du sol 本质不同. 前文的 du sol 是 of soil 的意思, 是定语. 这里则是 with soil 的意思, 是状语.
+
+pour 原因状语 : pour voir comment il les nommerait. 以看看 (voir) 他将 (变位ait) 怎么 (comment) 给它们取名 (nommer)
+
+* 谁 voir? 神.
+* 谁 nommer? 那人, l’homme, 也就是亚当.
+
+afin que 目的从句 : afin que tout être vivant porte le nom que l’homme lui donnerait. 使得各种活物各有 (porter) 名字, 名字是那人将 (变位ait) 给 (donner) 的.
+
+
+
 (20) L’homme donna donc un nom à tous les animaux domestiques, à tous les oiseaux du ciel et aux animaux sauvages. Mais il ne trouva pas d’aide qui soit son vis-à-vis.
+
+主句 1 : L’homme donna un nom à tous xxx. 那人给一切xxx起了名.
+
+* donc. 于是, 便.
+
+主句 2 : Il ne trouva pas d’aide. 他没有遇到帮手.
+
+* mais. 但是.
+
+
 
 (21) Alors l’Eternel Dieu plongea l’homme dans un profond sommeil. Pendant que celui-ci dormait, il prit une de ses côtes et referma la chair à la place.
 
+主句 1 : Dieu plongea (plonger) l’homme dans sommeil. 神使他入睡.
+
+* plonger 本意是 "下潜". plongea dans un profond sommeil 是固定搭配, 意思是 "进入沉睡".
+
+pendant que 从句 : Pendant que celui-ci dormait. 在这位睡着 (dormir) 的时候.
+
+* celui-ci = this one. 和 il 相比, 视角更聚焦.
+
+主句 2 : il prit une de ses côtes. 祂取出他的 (ses) 一根肋骨 (côte).
+
+* une de = one of
+* ses = his 的复数.
+
+主句 3 : referma la chair. 把肉 (chair) 合 (refermer) 起来.
+
+* 句中 à la place 很微妙. 它不是 "在原处" (à sa place). 而是 "取代", 类似于英语的 instead.
+* refermer 在现代语境中是 "缝合". 但上帝把肉合起来的手段不一定是 "缝合".
+
+
+
 (22) L’Eternel Dieu forma une femme de la côte qu’il avait prise de l’homme, et il l’amena à l’homme.
+
+直接翻译: 神用男人身上所取 (prendre) 的肋骨塑造 (former) 了一位女人, 并把她 (amener) 带到男人那里.
+
+动词变位: 原形 prendre - 过去分词 pris - 阴性单数变化 prise. 变化是由主语 que 引起的. 而 que 指代 la côte, 是阴性单数.
+
+
 
 (23) Alors l’homme s’écria : Voici bien cette fois celle qui est os de mes os, chair de ma chair. On la nommera « Femme » car elle a été prise de l’homme.
 
+主句 1 : l’homme s’écria. 男人大声说 (s’écrier).
+
+* s’écrier 有 "大声说" 或 "宣布" 的意思.
+* ⚠️ 注意与 écrire (写) 区分, 含义和读音都不一样.
+
+主句 2 : Voici celle qui est (os de me os, char de ma chair). 这就是我骨中之骨、肉中之肉的人。
+
+* celle qui 是 celui qui 的阴性变化, 类比英语的 she who.
+* bien 和 cette fois 虽然有实际含义 "好" 和 "这次", 但放在这里非常影响断句. 我猜测, 这是为了表达惊喜的程度, 惊喜到有点口吃.
+
+主句 3 : On la nommera « Femme ». 我们称她为 "女人".
+
+* 代词 on 即使语义上是复数, 语法上仍然作为单数, 因此谓语采用单数变位.
+
+car 从句 : car elle a été prise de l’homme. 因为她是从男人身上取下来的.
+
+* a été prise. 被拿取. 这里用的是复合过去时, 等价于英语的 was taken. 这里 a 是 avoir 的变位, été + 过去分词构成被动语态.
+
+关于被动语态的变位, 详见
+
+```
+https://www.lawlessfrench.com/grammar/passive-voice-conjugations/
+```
+
+
+
 (24) C’est pourquoi l’homme laissera son père et sa mère et s’attachera à sa femme, et les deux ne feront plus qu’un.
 
+语法结构 : C’est pourquoi l’homme laissera (qu) et s’attachera (qu),  et les deux ne feront qu’un. 这就是为什么男人要离开 (laisser) 他的父母, 亲近 (s’attacher) 他的女人, 二人成为 (faire) 一体.
+
+这里 ne ... que 是新出现的语法, 意思是 only. 具体来说, 用 ne ... que 包围动词, 宾语就带有 only 的性质. 
+
+
+
 (25) L’homme et sa femme étaient tous deux nus sans en éprouver aucune honte.
+
+语法结构 : (qu) étaient nus, sans en éprouver honte.
+
+* tous deux nus = both nude.
+* sans = without.
+* éprouver = feel. 感受到.
+* en 是代词, 也是 éprouver 的间接宾语, 指代情绪的来源, 也就是前述的裸体状态.
+* honte = shame. 羞耻.
+* aucun(e) 放在否定句里增强否定语气.
+
+
 
 -----
 
@@ -734,3 +875,13 @@ NIRV, 和合本仅保留希伯来原文的 all/every, 翻译成万物. NIV, KJV 
 
 
 (6) 中的 l’eau 与希伯来原文不符. 原文此处为 "雾". 和合本, KJS, Louis Segond (LSG) 等版本均翻译成 "雾, 水汽". 而思高本, BDS 翻译成 "水".
+
+
+
+(7) YHWH 是 "四字神名" (tetragrammation), 读作 Yahweh, 音译为 "耶和华".  YHWH 也是希伯来字母的英文转写, 很可能源自希伯来动词 HYH, 意思是 "存在" 或 "成为".  因此 YHWH 的含义可能是:
+
+* I am who I am
+* 自有永有者
+* 使万物存在者
+
+我推测 l’Eternel Dieu 就来自 "自有永有者" 这个含义.
