@@ -1,14 +1,9 @@
 ## 1. Texte original avec prononciation.
 
-(1) Ainsi furent achevés le ciel et la terre
+(1) Ainsi furent achevés le ciel et la terre avec toute l’armée de ce qu’ils contiennent.
 
 ```
 ɛ̃si fyr t~aʃəve lə sjɛl e la tɛr
-```
-
-avec toute l’armée de ce qu’ils contiennent.
-
-```
 avɛk tut l'arme də sə kil kɔ̃tjɛn.
 ```
 
@@ -484,40 +479,40 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (1) Ainsi furent achevés le ciel et la terre avec toute l’armée de ce qu’ils contiennent.
 
-主干: furent achevés le ciel et la terre avec toute l’armée.
+天地万物都造齐了.
 
-* furent achevés - 被完成. furent 是 être 的简单过去时. achevés 是 achever 的过去分词, 跟随主语取复数, 因此+s.
-* 被动式可以倒装. 这句话第一个语素是动词, 据此判断是倒装.
-* de ce qu’ils contiennent - 它们所包含的. 这里
-  * de 引出一个定语从句.
-  * 💡 ce que 对应中文的 "所" 结构.
-  * ils 指代前述的 ciel 和 terre.
-  * contiennent 意思是 "包含", 是 contenir 的直陈现在时.
-* 变位表上说, qu’ils contiennent 是虚拟现在时. 但这里绝对不是. 如果是, 那么代词 ce 就成了语法孤儿.
+* 主干: furent (être) achevés (achever). 被完成.
+* 被动句可以倒装. 主语是 le ciel et la terre avec toute l’armée.
+* l’armée的定语. de ce qu’ils contiennent (contenir). 它们所包含的.
+* 注意 qu’ils contiennent 不是虚拟现在时的变位. 如果是, 那么 ce 就成了语法孤儿.
 
 
 
 (2) Le septième jour, Dieu avait achevé tout ce qu’il avait créé. Alors il se reposa en ce jour-là de toutes les œuvres qu’il avait accomplies.
 
-主干 1 : Dieu avait achevé tout.
+第七天, 神完成了他所创造的一切. 
 
-整句翻译: 第七天, 神完成了他所创造的一切. 
+然后他在那一天歇了他一切的工, 安息了.
 
-主干 2 : il se reposa.
-
-* en ce jour-là - 在那一天. 是 se reposa 的时间状语.
-* de toutes les œuvres - 从所有工作中. 也是 se reposa 的状语. ⚠️ 第一眼容易误以为是 ce jour-là 的定语, 如此的语义是: 神在 "他所完成的所有工作之日" 休息了. 语意不通顺.
-* qu’il avait accomplies - 他所完成的 (过去完成时 / 愈过去时).
+* 主干 il se reposa. 他休息了.
+* 状语 en ce jour-là. 在那一天.
+* 状语 de toutes les œuvres qu’il avait accomplies. 从一切他所完成的工.
 
 
 
 (3) Il bénit le septième jour, il en fit un jour saint, car, en ce jour-là, il se reposa de toute l’œuvre de création qu’il avait accomplie.
 
-主干1: Il bénit le septième jour. 他祝福第七天.
+他祝福 (bénit) 第七天,
 
-主干2: il en fit un jour saint. 他使这天成为一个圣日.
+他使 (faire) 这天成为 "圣日" (un jour saint),
 
-原因状语从句: car, il se reposa. 因为他休息了.
+* 英语有 make sth/sb adj 的句式.
+* 法语没有 faire qch adj 的句式, 只有 faire de A B, 意为 "使事物 A 成为事物 B". 这里 A 和 B 都是名词性.
+* "en" 用来指代 "de A". 这里指代 de septième jour.
+
+因为 (car), 在这一天, 他歇了一切创造的工, 安息了.
+
+* se reposa(reposer). 休息.
 
 ⚠️ 过去分词与直接宾语保持性数一致. 例如:
 
@@ -532,87 +527,57 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. Au temps où l’Eternel Dieu fit la terre et le ciel,
 
-主干 1 : Voici l’histoire de ce qui est advenu.
+这是万物受造 (furent créés) 之时, 于天地之间所发生的历史.
 
-* Voici - 这是.
-* de ce qui est advenu - 所发生的. est advenu 是 advenir 的复合过去时.
-* au ciel - 在天空里. 等同于英语的 in the sky. 而按照中文习惯, 意译为 "在天上". 此处作用是 est advenu 的状语.
-* sur la terre - 在地上. 等同于英语的 over. 此处作用是 est advenu 的状语.
-* lorsque - 在...之时. 引出一个时间状语从句. 类似的有 quand. 此处作用是 est advenu 的时间状语.
-* ils furent créés - 它们受造. 前面讲过被动语态, 以及过去分词的.
+* Voici. 这是. 同时具有主语和谓语.
+* l’histoire 的定语. de ce qui est advenu(advernir). 所发生的.
+* est advenu 的状语 au ciel et sur la terre. 于天地之间.
+  * au ciel 直译为在天空 "里". 等同于英语的 in the sky. 而按照中文习惯, 意译为在天 "上".
 
-主干 2 : Au temps où l’Eternel Dieu fit la terre et le ciel. 这其实是下一条经文的从句, 不知何故被编纂到这一条经文里.
+在耶和华神创造天地的时候,
 
-* Au temps où. 在...之时, 引出一个时间状语从句.
+* Au temps où. 在...的时候.
 
 
 
 (5) il n’existait encore sur la terre aucun arbuste, et aucune herbe des champs n’avait encore germé, car l’Eternel Dieu n’avait pas fait pleuvoir sur la terre, et il n’y avait pas d’homme pour cultiver la terre.
 
-主干 1 : il n’existait arbuste.
+地上还 (encore) 没有 (il n’existait) 草木 (arbuste),
 
-* encore 表示 "还, 尚", 放在否定句里就是 "还未, 尚未".
-* sur la terre 意思是 "在地面上", 是 exister 的地点状语, 限定其断言的空间范围 
 * aucun 是 arbuste 的定语, 放在否定句里加强否定语气, 意思是 "毫无, 根本不". 类似的词有 rien.
 
-主干 2 : herbe n’avait germé.
+田间 (des champs) 的菜蔬 (herbe) 还没有生长 (germer) 起来,
 
-* des champs 是 herbe 的定语, 意思是 "在田地里". 其中, des是介词de和定冠词复数les的缩合.
-* 本句是 Gen 2:5 的第二个主句. 尽管 `, et` 的出现可能会误导读者认为, herbe 是前述 il n’existait 的第二个逻辑主语. 然而本句主谓齐全, 所以只能跟 `il n’existait ...` 一起当主句.
+因为耶和华神还没有降雨 (faire pleuvoir) 在地上,
 
-主干 3 : car Dieu n’avait fait
-
-* car 引出原因状语从句.
 * 否定式的谓语如果有助动词 n’avait, 经常写成 n’avait pas.
+
+也(因为)没有人耕 (cultiver) 地.
+
 * d’homme = de homme, 这里的de不是介词, 而是部分冠词, 等同于英语的 some/any. 在否定句里只用de.
-
-de = some/any 的用法, 详见
-
-```
-https://www.collinsdictionary.com/dictionary/french-english/de
-```
-
-主干 4 : et il n’y avait d’homme
-
-* et 就像植物大战僵尸里的 "模仿者". 这里模仿 car 的作用, 引出第二个原因状语从句.
-* cultiver - 耕种. 之所以采用不定式, 是因为 pour 只引出了 cultiver, 没有引出相应的主语, 因而是个介词. 等同于英语的 for cultivating.
 
 
 
 (6) De l’eau se mit à sourdre et à irriguer toute la surface du sol.
 
-主干: l’eau `se mit à` sourdre et à irriguer.
+一些水开始冒出来, 灌溉整个地表.
 
-* De l’eau - 一些水. ⚠️此处有版本分歧.
-* se mit à = to start. 开始做某事. mit 是 metter 的简单过去时.
-* sourdre - (水的)冒出, 涌出.
-* irriguer - 灌溉.
-
-💡 遇到 "反身代词+动词" 以及 "动词+介词" 的组合时, 一定要查查是否为固定短语.
+* se mit (metter) à. 开始做某事.
 
 
 
 (7) L’Eternel Dieu façonna l’homme avec de la poussière du sol, il lui insuffla dans les narines le souffle de vie, et l’homme devint un être vivant.
 
-主干 1 : Dieu façonna l’homme
+耶和华神用地里的一些尘土 (poussière) 塑造 (façonner) 了一个人.
 
-* L'Eternel Dieu 是固定搭配, 直译为 "永恒的神".
-* façonna 意思是 "塑造, 制作", 是 façonner 的简单过去时.
-* avec de la poussière du sol - 方式状语, 意思是 "用地(sol)里的一些尘土(poussière)". 其中,
-  * de la 产生 "一些" 的意思, 等同于英语的 some
-  * du = de le, 等同于英语的 of the.
+* de la poussière 中的 de la. 一些. 类比英语的 some.
+* du sol 中的 du = de le. 类比英语的 of the.
 
-主干 2 : il lui insuffla le souffle
+他 (il, 指神) 把生命之气 (le souffle de vie) 吹 (insuffler) 进他 (lui, 指人) 的鼻孔 (narine) 里,
 
-* insuffla 意思是 "吹入, 打气, 注入; 激发", 是 insuffler 的简单过去时. 可以替换英语 inspire. 中文语境如果需要表达 "注入/激发某种精神力量", 也可以用 insuffla.
-* 谓语有两个宾语. 间接宾语 lui 表示注入的目标. 直接宾语 le souffle de vie 表示注入的内容.
-* le souffle de vie - 生命 (vie) 的气息 (souffle). 对应英语 the breath of life.
-* narine - 鼻孔. dans les narines - (吹)进鼻孔里.
-* 这里间接宾语是 lui, 是个代词单三, 故此放在主语和谓语之间. 如果换成它所指代的 l’homme, 那么就要改成状语结构 à l’homme, 紧跟谓语后面. 如此, 整句将变成 il insuffla à l'homme dans les narins le souffle de vie.
+* insuffler 可以表达英语 inspire, 中文 "精神注入" 的意思.
 
-主干 3 : l’homme devint un être vivant
-
-* devint 意思是 "变成", 是 devenir 的简单过去时.
+那人就变成 (devenir) 了一个活物.
 
 
 
