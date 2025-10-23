@@ -502,17 +502,15 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (3) Il bénit le septième jour, il en fit un jour saint, car, en ce jour-là, il se reposa de toute l’œuvre de création qu’il avait accomplie.
 
-他祝福 (bénit) 第七天,
+他祝福 (bénir) 第七天,
 
 他使 (faire) 这天成为 "圣日" (un jour saint),
 
-* 英语有 make sth/sb adj 的句式.
 * 法语没有 faire qch adj 的句式, 只有 faire de A B, 意为 "使事物 A 成为事物 B". 这里 A 和 B 都是名词性.
 * "en" 用来指代 "de A". 这里指代 de septième jour.
+* 不像英语有 make sth/sb adj 的句式.
 
-因为 (car), 在这一天, 他歇了一切创造的工, 安息了.
-
-* se reposa(reposer). 休息.
+因为 (car), 在这一天, 他歇了一切创造的工, 安息 (se reposer) 了.
 
 ⚠️ 过去分词与直接宾语保持性数一致. 例如:
 
@@ -527,16 +525,15 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (4) Voici l’histoire de ce qui est advenu au ciel et sur la terre lorsqu’ils furent créés. Au temps où l’Eternel Dieu fit la terre et le ciel,
 
-这是万物受造 (furent créés) 之时, 于天地之间所发生的历史.
+这是 (Voici) 万物受造 (faire créé) 之时, 于天地之间所 (ce qui/ce que) 发生 (advenir) 的历史.
 
-* Voici. 这是. 同时具有主语和谓语.
-* l’histoire 的定语. de ce qui est advenu(advernir). 所发生的.
-* est advenu 的状语 au ciel et sur la terre. 于天地之间.
-  * au ciel 直译为在天空 "里". 等同于英语的 in the sky. 而按照中文习惯, 意译为在天 "上".
+* 过去分词 créé 的宾语是 l’histoire, 变为单数阴性 créés.
+
+* au ciel 直译为在天空 "里". 等同于英语的 in the sky. 而按照中文习惯, 意译为在天 "上".
 
 在耶和华神创造天地的时候,
 
-* Au temps où. 在...的时候.
+* au temps où. 在...的时候.
 
 
 
@@ -583,69 +580,46 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (8) L’Eternel Dieu planta un jardin vers l’orient : l’Eden, le pays des Délices. Il y plaça l’homme qu’il avait façonné.
 
-主干 1 : Dieu planta un jardin.
+耶和华神朝东 (vers l’orient) 搭建 (planter) 了一个花园:
 
-* planta 是 plantir 的简单过去时.
-* vers l’orient - 朝东. 单从语法来讲, 作为 planta 的状语, 或者作为 l’Eden 的定语, 都是合理的.
-* le pays des Délices - 一个欢愉/舒心的地方. 意译为 "一个乐园".
+* vers l’orient = eastward(s).
 
-Louis Segond 1910 版本的这一句是 Puis l'Éternel Dieu planta un jardin en Éden, du côté de l'orient. 不存在语法归属不清晰的问题.
+伊甸园, 一片乐土.
 
-主干 2 : Il y plaça l’homme.
+* le pays des Délices = a land of joy.
 
-* plaça 是 placer 的简单过去时.
-* 副代词 y 最常见的功能是代替介词 à 引导的名词或从句, 作为间接宾语. 此处代替的就是 un jardin.
-* qu’il avait façonné - 祂所塑造的. 作为 l’homme 的定语从句.
+他把所造之人安置 (placer) 在那里.
 
 
 
-(9) L’Eternel Dieu fit pousser du sol toutes sortes d’arbres portant des fruits d’aspect agréable et délicieux, et il mit l’arbre de la vie au milieu du jardin. Il y plaça aussi l’arbre de la détermination du bien et du mal.
+(9) L’Eternel Dieu fit pousser du sol toutes sortes d’arbres portant des fruits d’aspect agréable et délicieux, et il mit `l’arbre de la vie` au milieu du jardin. Il y plaça aussi `l’arbre de la détermination du bien et du mal`.
 
-主句 1 : Dieu fit pousser toutes sortes d’arbres.
+耶和华神使各种树从地里长出来, 树上有赏心悦目(d’aspect agréable) 和美味的果子.
 
-* fit (faire) pousser (不定式) - 使生长.
-* portant (porter) des fruits - 携带果子的. 语法: 现在分词作为形容词性.
-* d’aspect agréable et délicieux - 赏心悦目和美味的. 可以理解为中文的 "色香味俱全". 这里的 et 稍有歧义, 无法划分 délicieux 到底是 aspect 的第二个定语, 还是更往前 fruits 的定语. 这里只能根据语义, 认为是 fruits 的定语.
+* d’aspect agréable = look pleasant. 直译为: 看起来讨喜.
 
-主句 2 : il mit l’arbre
+他把生命之树放 (mettre) 在花园的中央 (milieu).
 
-* 这里的 mit 就是单纯的 "放置", 不再是前面 se mit = to start 的意思.
-* l’arbre de la vie - 生命之树.
-* au milieu du jardin - 在花园的中央.
+* 这里的 metter = put. 不要与 se metter à = to start 弄混.
 
-主句 3 : Il y plaça l’arbre.
-
-* l’arbre de la détermination du bien et du mal - 分别善恶树. détermination - (抽象名词) 区分, 分别. bien - 善. mal - 恶.
+他也把分别善恶树放在那里.
 
 
 
 (10) Du pays d’Eden sortait un fleuve qui arrosait le jardin. De là, il se divisait en quatre bras.
 
-主句 1 : Un fleuve sortait. 一条河从某地流出.
-
-* du pays d’Eden - 从伊甸地. 第一个 du = de le.
-* 整句是倒装句. 这是由 Du 在句首而判断出来的.
-* 状语从句 qui arrosait (arroser) le jardin - 滋润花园的.
-
-主句 2 : il se divisait en quatre bras. 它分成四道支流.
-
-* 状语 de là - 从那里.
+有河 (fleuve) 从伊甸流 (sortir) 出来, 滋润 (arroser) 那园子. 在那里, 它分为 (se diviser) 四道.
 
 
 
 (11) Le nom du premier est Pishôn : il contourne tout le pays de Havila où se trouve de l’or,
 
-主句 1 : Le nom est Pishôn. 名字叫比逊/丕雄.
+第一道叫比逊 : 它环绕 (contourner) 哈腓拉全地. 那里有 (où se trouve) 金子.
 
-整句含义: 第一(道支流)的名字叫比逊/丕雄.
-
-主句 2 : il contourne tout le pays de Havila. 它环绕 (contourner) 哈腓拉全地.
-
-主句 2 的状语从句 : où se trouve de l’or. 那里有金子 / 那里能找到金子.
-
-* où = where there = wherein
-* se trouve (trouver) 也是断言存在性的. trouver 本意是寻找. se trouver 直译是主语「能在自己身上找到」宾语, 意译为主语「有」宾语.
-* de l’or. 这里的 de le 解释为 some, 表示不定量. 不能解释为 of the.
+* où se trouve de l’or = 那里能找到金子.
+* où = where / where there / wherein.
+* se trouver. 直译为 "自己身上能找到". 意译为 "有".
+* de l’or. 一些金子. 这里的 de le 解释为 some, 表示不定量; 不能解释为 of the.
 
 
 
@@ -850,3 +824,7 @@ NIRV, 和合本仅保留希伯来原文的 all/every, 翻译成万物. NIV, KJV 
 * 使万物存在者
 
 我推测 l’Eternel Dieu 就来自 "自有永有者" 这个含义.
+
+
+
+(8) vers l’orient 是在谁的东边? 一般认为是圣经作者/叙述者的东边.
