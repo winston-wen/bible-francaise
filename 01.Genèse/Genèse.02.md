@@ -614,7 +614,7 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (11) Le nom du premier est Pishôn : il contourne tout le pays de Havila où se trouve de l’or,
 
-第一道叫比逊 : 它环绕 (contourner) 哈腓拉全地. 那里有 (où se trouve) 金子.
+第一条叫比逊 : 它环绕 (contourner) 哈腓拉全地. 那里有 (se trouver) 金子.
 
 * où se trouve de l’or = 那里能找到金子.
 * où = where / where there / wherein.
@@ -625,73 +625,63 @@ sɑ̃ z~ɑ̃ n~epruve okyn ɔ̃t.
 
 (12) un or d’excellente qualité. On trouve aussi dans cette contrée de l’ambre parfumée et la pierre précieuse appelée onyx.
 
-前一条经文,  or 的同位语 : un or d’excellente qualité. 成色极佳的金子.
-
-主句 1 : On trouve de l’ambre et la pierre. 人们找到琥珀和宝石. 
-
-* de 在这里表示 "一些", 表达 "不定量" 的意思. 中文名词默认不定量, 因此翻译时可以省略, 以免生硬.
-* 状语 dans cette contrée : 在这片区域.
-* 定语 : parfumée 芳香的. précieuse 珍贵的.
-* 定语 : appelée onyx 叫做玛瑙的. 这里 appelée 是 appler 的过去分词阴性单数.
+(续前文) 成色极好的金子. 人们在那片区域(contrée)还找到(trouver)芳香的琥珀, 以及一种珍贵宝石叫做玛瑙.
 
 
 
 (13) Le deuxième fleuve s’appelle Guihôn, il parcourt tout le pays de Koush.
 
-第二个支流叫基训/基红, 它流遍(parcourir)古实全地.
+第二条河叫基训/基红, 它流遍(parcourir)古实全地.
+
+词汇: parcourir = cover.
 
 
 
 (14) Le troisième fleuve s’appelle le Tigre, c’est celui qui coule à l’orient de l’Assyrie. Et le quatrième fleuve c’est l’Euphrate.
 
-主句 1 : 第三个支流叫底格里斯.
-
-主句 2 : `c’est celui qui ...` 那就是...
-
-* 约等于英语的 `That’s what ...` 句式
-* coule à l’orient de l’Assyrie. 在亚述东边流淌. 该句的主语是代词 celui, 指代 le Tigre.
+第三条河叫(s’appeler)底格里斯, 那就是流淌(couler)在亚述东边的. 第四条河是幼发拉底.
 
 
 
 (15) L’Eternel Dieu prit l’homme et l’établit dans le jardin d’Eden pour le cultiver et le garder.
 
-主句 1 : Dieu prit (prendre) l’homme. 神带走那人.
-
-主句 2 : `l’établit (établir) dans ... pour ...` (神)把他安置在伊甸园, 使他耕作和护卫伊甸园.
+耶和华神带走(prendre)那人, 把他安置(établir)在伊甸园, 使他耕作和护卫园子.
 
 * `l’` 就是 le 的缩合. 是 établir 的宾语. 因为是宾语代词, 所以放在谓语前面. 不要误以为是 le 冠词.
-* 谓语 établit 复用主语 Dieu.
-* 目的状语 pour le cultiver et le garder 中, 把 le 理解成主语和宾语都是符合语法的, 但把 le 理解成宾语代词更符合语义.
 * 法语允许不定式构成 pour 状语. 这点不像英语要 +ing 变成动名词结构.
 
 
 
 (16) Et l’Eternel Dieu ordonna à l’homme : Mange librement des fruits de tous les arbres du jardin,
 
-主句 1 : `Dieu ordonna (ordonner) à l’homme : ...` 神命令那人 : 随便吃园子里各种树的果实.
+耶和华神命令(ordonner)那人: 随便吃(manger)院子里的各种树上的果实.
 
-* ordonner qch à qn. 命令某人做某事.
-* qch 和 qn 是法语字典中的标准化符号. qch = quelque chose, 等价于英语字典中的 sth = something. qn = quelqu’un(e), 等价于英语字典中的 sb = somebody.
+词汇: manger = to eat. librement = freely.
+
+语法: ordonner qch à qn. 命令某人做某事.
+
+qch 和 qn 是法语字典中的标准化符号. qch = quelque chose, 等价于英语字典中的 sth = something. qn = quelqu’un(e), 等价于英语字典中的 sb = somebody.
 
 
 
 (17) sauf du fruit de l’arbre de la détermination du bien et du mal. De celui-là, n’en mange pas, car le jour où tu en mangeras, tu mourras.
 
-续16 : `sauf du fruit de ...` 除了分别善恶树上的果子.
+除了分别善恶树上的果子. 你不许吃它们! 因为你吃的那天就会死(mourir).
 
-主句 1 : `« quelque sujet », car tu mourras`. 关于那些果子, 不许吃它们 ! 因为你吃的那天就会死.
+语法: 
 
-* De celui-là. 关于那些果子.
-* n’en mange pas. (命令句) 不许吃它们. 代词 en 这里用来指代不定量的名词.
-* le jour où. 在...的那天.
+* n’en mange pas 中, 代词 en 指代不定量的 "分别善恶果".
+* le jour où tu en mangeras = 你(tu)吃(manger)它们(en)的那天(le jour où).
+
+本句翻译时扔掉了 De celui-là. 该句用来强调话题是 celui 所指的内容.
 
 
 
 (18) L’Eternel Dieu dit : Il n’est pas bon que l’homme soit seul, je lui ferai une aide qui soit son vis-à-vis.
 
-主干: `Dieu dit : Il n’est pas bon que ..., je lui ferai  (faire) une aide qui ...` 神说 : 那人独身是不好的, 我要为他造一个 "伴侣".
+耶和华神说: 那人独身是不好的, 我要为他造(faire)一个 "伴侣".
 
-这句话的语法算不上难. 难点在于 vis-à-vis. 该词有两个义项: 副词 face to face 和名词 counterpart. 根据语法, 排除副词, 保留名词. 和合本此处翻译成 "配偶" 是意译, 因为 vis-à-vis 在圣经以外的场合, 不具有典型的 "配偶" 含义.
+这句话的语法算不上难. 难点在于 vis-à-vis. 该词有两个义项: 副词 face to face 和名词 counterpart. 根据语法, 排除副词, 保留名词. 和合本此处意译成 "配偶". 之所以说是意译, 是因为 vis-à-vis 在圣经以外的场合, 不具有典型的 "配偶" 含义.
 
 
 
