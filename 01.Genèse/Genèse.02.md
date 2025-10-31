@@ -687,84 +687,58 @@ qch 和 qn 是法语字典中的标准化符号. qch = quelque chose, 等价于�
 
 (19) L’Eternel Dieu, qui avait façonné du sol tous les animaux des champs et tous les oiseaux du ciel, les fit venir vers l’homme pour voir comment il les nommerait, afin que tout être vivant porte le nom que l’homme lui donnerait.
 
-结构 : L’Eternel Dieu, (qui xxx), les fit (faire) venir vers l’homme (pour xxx), (afin que xxx). 神把 (faire) 它们带到 (venir) 那人面前.
+耶和华神, 就是塑造(façonner)了田间各种走兽和空中各种飞鸟的那位, 带领(faire venir)它们带领到那人面前, 为的是看看(voir)他会怎样(comment)称呼(nommer)它们; 使得各种活物都有(porter)名字, 名字是那人将要给(donner)的.
 
-qui 定语从句 : qui avait façonné 他塑造了
+语法: 
 
-* du sol. 用土. 这里与前文的 du sol 本质不同. 前文的 du sol 是 of soil 的意思, 是定语. 这里则是 with soil 的意思, 是状语.
-
-pour 原因状语 : pour voir comment il les nommerait. 以看看 (voir) 他将 (变位ait) 怎么 (comment) 给它们取名 (nommer)
-
-* 谁 voir? 神.
-* 谁 nommer? 那人, l’homme, 也就是亚当.
-
-afin que 目的从句 : afin que tout être vivant porte le nom que l’homme lui donnerait. 使得各种活物各有 (porter) 名字, 名字是那人将 (变位ait) 给 (donner) 的.
+* comment il les nommerait = how he name them. 这部分是 voir 的宾语.
+* afin que = so that. 使得. 这部分是 fit venir 的目的状语.
 
 
 
 (20) L’homme donna donc un nom à tous les animaux domestiques, à tous les oiseaux du ciel et aux animaux sauvages. Mais il ne trouva pas d’aide qui soit son vis-à-vis.
 
-主句 1 : L’homme donna un nom à tous xxx. 那人给一切xxx起了名.
+于是(donc)那人便给一切牲畜, 飞鸟和走兽起名. 但是(mais)那人还没有遇到(trouver)一个贴身的帮手.
 
-* donc. 于是, 便.
+意译:
 
-主句 2 : Il ne trouva pas d’aide. 他没有遇到帮手.
-
-* mais. 但是.
+* donner un nom à qch. 直译为给 qch 一个名字.
+* vis-à-vis. 意译为贴身的, 如影随形的.
 
 
 
 (21) Alors l’Eternel Dieu plongea l’homme dans un profond sommeil. Pendant que celui-ci dormait, il prit une de ses côtes et referma la chair à la place.
 
-主句 1 : Dieu plongea (plonger) l’homme dans sommeil. 神使他入睡.
+然后耶和华神使他沉睡. 在这人睡着的时候, 祂取走他的一根肋骨(côte), 再把肉(chair)合(refermer)起来.
 
-* plonger 本意是 "下潜". plongea dans un profond sommeil 是固定搭配, 意思是 "进入沉睡".
+语法:
 
-pendant que 从句 : Pendant que celui-ci dormait. 在这位睡着 (dormir) 的时候.
+* pendant que. 在...的时候.
 
-* celui-ci = this one. 和 il 相比, 视角更聚焦.
+词汇: 
 
-主句 2 : il prit une de ses côtes. 祂取出他的 (ses) 一根肋骨 (côte).
-
-* une de = one of
-* ses = his 的复数.
-
-主句 3 : referma la chair. 把肉 (chair) 合 (refermer) 起来.
-
-* 句中 à la place 很微妙. 它不是 "在原处" (à sa place). 而是 "取代", 类似于英语的 instead.
+* plonger 本意是 "下潜". plonger qu dans un profond sommeil 是固定搭配, 意思是 "使 quelqu’un 进入沉睡".
+* celui-ci = this one. 和代词 il 相比, 视角更聚焦.
+* à la place = instead. 注意不是 à sa place 在原处.
 * refermer 在现代语境中是 "缝合". 但上帝把肉合起来的手段不一定是 "缝合".
 
 
 
 (22) L’Eternel Dieu forma une femme de la côte qu’il avait prise de l’homme, et il l’amena à l’homme.
 
-直接翻译: 神用男人身上所取 (prendre) 的肋骨塑造 (former) 了一位女人, 并把她 (amener) 带到男人那里.
-
-动词变位: 原形 prendre - 过去分词 pris - 阴性单数变化 prise. 变化是由主语 que 引起的. 而 que 指代 la côte, 是阴性单数.
+耶和华神塑造(former)了一位女人, 用的是从男人身上取(prendre)的肋骨; 并把她带领(amener)到男人那里.
 
 
 
 (23) Alors l’homme s’écria : Voici bien cette fois celle qui est os de mes os, chair de ma chair. On la nommera « Femme » car elle a été prise de l’homme.
 
-主句 1 : l’homme s’écria. 男人大声说 (s’écrier).
+然后那男人大声说(s’écrier) : 这...太好了...这回...这就是我骨(os)中之骨, 肉中之肉的人. 我们称(nommer)她为 "女人", 因为他是从男人身上取(prendre)下来的.
 
-* s’écrier 有 "大声说" 或 "宣布" 的意思.
-* ⚠️ 注意与 écrire (写) 区分, 含义和读音都不一样.
-
-主句 2 : Voici celle qui est (os de me os, char de ma chair). 这就是我骨中之骨、肉中之肉的人。
-
-* celle qui 是 celui qui 的阴性变化, 类比英语的 she who.
-* bien 和 cette fois 虽然有实际含义 "好" 和 "这次", 但放在这里非常影响断句. 我猜测, 这是为了表达惊喜的程度, 惊喜到有点口吃.
-
-主句 3 : On la nommera « Femme ». 我们称她为 "女人".
+语法:
 
 * 代词 on 即使语义上是复数, 语法上仍然作为单数, 因此谓语采用单数变位.
-
-car 从句 : car elle a été prise de l’homme. 因为她是从男人身上取下来的.
-
-* a été prise. 被拿取. 这里用的是复合过去时, 等价于英语的 was taken. 这里 a 是 avoir 的变位, été + 过去分词构成被动语态.
-
-关于被动语态的变位, 详见
+* a été prise = 被拿取. 这里用的是复合过去时, 等价于英语的 was taken. 这里 a 是 avoir 的变位, être + 过去分词构成被动语态.
+* 被动语态的变位由两部分组成: être 的时态+ 过去分词的性数. 这块知识详见  :
 
 ```
 https://www.lawlessfrench.com/grammar/passive-voice-conjugations/
@@ -774,21 +748,21 @@ https://www.lawlessfrench.com/grammar/passive-voice-conjugations/
 
 (24) C’est pourquoi l’homme laissera son père et sa mère et s’attachera à sa femme, et les deux ne feront plus qu’un.
 
-语法结构 : C’est pourquoi l’homme laissera (qu) et s’attachera (qu),  et les deux ne feront qu’un. 这就是为什么男人要离开 (laisser) 他的父母, 亲近 (s’attacher) 他的女人, 二人成为 (faire) 一体.
+这就是为什么男人要离开(laisser)他的父(père)母(mère), 亲近(s’attacher)他的女人, 二人成为(faire)一体.
 
-这里 ne ... que 是新出现的语法, 意思是 only. 具体来说, 用 ne ... que 包围动词, 宾语就带有 only 的性质. 
+语法:
+
+* 用 ne ... que 包围动词, 宾语就带有 only 的性质. 
 
 
 
 (25) L’homme et sa femme étaient tous deux nus sans en éprouver aucune honte.
 
-语法结构 : (qu) étaient nus, sans en éprouver honte.
+男人和女人曾是赤身裸体的(nu), 并不感到(éprouver)羞耻(honte).
 
-* tous deux nus = both nude.
-* sans = without.
-* éprouver = feel. 感受到.
-* en 是代词, 也是 éprouver 的间接宾语, 指代情绪的来源, 也就是前述的裸体状态.
-* honte = shame. 羞耻.
+语法:
+
+* en 是 éprouver 的宾语代词, 指代感受的来源, 也就是前述的裸体状态.
 * aucun(e) 放在否定句里增强否定语气.
 
 
